@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #b6cfdb;
+    
+    
+}
+h1{
+    color: #2db818;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+h2{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: indigo;
+}
+
+.firstpara{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(192, 65, 65);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.firstname{
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.email{
+    text-align: center;
+    margin: 20px 20px; 
+}
+
+.password{
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.dob{
+    text-align: center;
+    margin: 5px 20px;
+    display: block;
+    color: rgb(240, 101, 46);
+}
+
+.dobvalues{
+    text-align: center;
+    margin: 5px 5px;
+    display: block;
+}
+
+.gender{
+    text-align: center;
+    margin: 20px 20px;
+    display: block;
+}
+
+.policy{
+    text-align: center;
+    display: block;
+    color: black;
+    margin: 10px 10px;
+}
+
+.sign-up{
+    text-align: center;
+    margin: 20px 20px;
+}
